@@ -1,0 +1,12 @@
+[submodule "lib_bgp_data"]
+	path = lib_bgp_data
+	url = git@github.com:jfuruness/lib_bgp_data.git
+[submodule "deploymentAPI"]
+	path = deploymentAPI
+	url = git@github.com:jackaaron25/deploymentAPI.git
+[submodule "rpki-demo"]
+	path = rpki-demo
+	url = git@github.com:shariqak14/rpki-demo.git
+[submodule "openbmp"]
+	path = openbmp
+	url = git@github.com:SNAS/openbmp.git
